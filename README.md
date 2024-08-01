@@ -1,4 +1,4 @@
-# [SubstancePHP](https://github.com/substancephp): [Skeleton](https://packagist.org/packages/substancephp/http)
+# [SubstancePHP](https://github.com/substancephp): [Skeleton](https://packagist.org/packages/substancephp/skeleton)
 
 ## Overview
 
