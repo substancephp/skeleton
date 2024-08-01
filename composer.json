@@ -1,4 +1,6 @@
 {
+    "name": "substancephp/skeleton",
+    "description": "A scaffolding for PHP library packages",
     "type": "library",
     "license": "MIT",
     "autoload": {
