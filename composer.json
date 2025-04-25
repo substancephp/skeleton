@@ -40,7 +40,7 @@
       "cbf": "Auto-fix linting any issues that can be auto-fixed"
     },
     "support": {
-        "issues": "https://github.com/substancephp/http/issues",
-        "source": "https://github.com/substancephp/http"
+        "issues": "https://github.com/substancephp/skeleton/issues",
+        "source": "https://github.com/substancephp/skeleton"
     }
 }

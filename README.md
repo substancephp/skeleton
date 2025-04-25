@@ -6,6 +6,10 @@
 
 ## Usage
 
+Run the following command:
+
 ```
 composer create-project substancephp/skeleton my-package
 ```
+
+Then replace generated code as needed.
