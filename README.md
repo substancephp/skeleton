@@ -12,4 +12,6 @@ Run the following command:
 composer create-project substancephp/skeleton my-package
 ```
 
-Then replace generated code as needed.
+Then replace generated code as needed. In particular:
+* Find the word `skeleton` and update it to the actual package name
+* Update dates especially the date in the attached license
